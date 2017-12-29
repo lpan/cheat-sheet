@@ -2,8 +2,8 @@
 
 ## General
 
-* Toggle file tree    `SP p t`
-* Fuzzy search        `SP p f`
+* Toggle file tree    `SP p t`, `SP f t`
+* Fuzzy search        `SP p f`, `SP f f`
 
 ## Clojure
 
