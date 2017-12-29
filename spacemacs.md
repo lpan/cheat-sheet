@@ -5,7 +5,12 @@
 * Toggle file tree    `SP p t`, `SP f t`
 * Fuzzy search        `SP p f`, `SP f f`
 
+### Visual
 * Scale up/down       `SP z x`
+* Toggle visual stuff `SP t *`
+
+### Config
+
 * Open config file    `SP f e d`
 * Reload config       `SP f e R`
 
