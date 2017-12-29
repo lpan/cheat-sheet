@@ -5,6 +5,10 @@
 * Toggle file tree    `SP p t`, `SP f t`
 * Fuzzy search        `SP p f`, `SP f f`
 
+* Scale up/down       `SP z x`
+* Open config file    `SP f e d`
+* Reload config       `SP f e R`
+
 ## Clojure
 
 [DOC](https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Blang/clojure#key-bindings)
